@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Сандро Боттичелли — Рождение Венеры",
+    "author": "Энди Уорхол",
+    "style": "Поп-арт",
+    "image": "images/venus.jpg"
+  },
+  {
+    "name": "Любовники",
+    "author": "Эгон Шиле",
+    "style": "Экспрессионизм",
+    "image": "images/lovers.jpg"
+  },
+  {
+    "name": "Танец жизни",
+    "author": "Эдвард Мунк",
+    "style": "Экспрессионизм / символизм",
+    "image": "images/life_dance.jpg"
+  },
+  {
+    "name": "Петух и курица",
+    "author": "Михаил Ларионов",
+    "style": "Лучизм",
+    "image": "images/cock.jpg"
+  },
+  {
+    "name": "Святое семейство",
+    "author": "Эгон Шиле",
+    "style": "Экспрессионизм",
+    "image": "images/family.jpg"
+  },
+  {
+    "name": "Герника",
+    "author": "Пабло Пикассо",
+    "style": "Сюрреализм / кубизм",
+    "image": "images/gernika.jpg"
+  },
+  {
+    "name": "",
+    "author": "",
+    "style": "Баухаус",
+    "image": "images/bauhaus.jpg"
+  },
+  {
+    "name": "Москва",
+    "author": "Василий Кандинский",
+    "style": "Абстрактный экспрессионизм",
+    "image": "images/moscow.jpg"
+  },
+  {
+    "name": "Синие столбы",
+    "author": "Джексон Поллок",
+    "style": "Абстрактный экспрессионизм (живопись действия)",
+    "image": "images/blue_pillars.jpg"
+  },
+  {
+    "name": "Колхозница с тыквами",
+    "author": "Илья Машков",
+    "style": "Социальный реализм",
+    "image": "images/farm_girl.jpg"
+  },
+  {
+    "name": "Чья это муха?",
+    "author": "Илья Кабаков",
+    "style": "Концептуализм / соц-арт",
+    "image": "images/fly.jpg"
+  },
+  {
+    "name": "Плачущая женщина",
+    "author": "Пабло Пикассо",
+    "style": "Экспрессионизм / кубизм / сюрреализм",
+    "image": "images/cry_woman.jpg"
+  },
+  {
+    "name": "Без названия",
+    "author": "Марк Ротко",
+    "style": "Абстрактный экспрессионизм (живопись цветового поля)",
+    "image": "images/noname.jpg"
+  },
+  {
+    "name": "Чёрный есть чёрный",
+    "author": "Пьер Сулаж",
+    "style": "Абстракционизм / информель",
+    "image": "images/black.jpg"
+  },
+  {
+    "name": "Святая Троица",
+    "author": "Дэмиен Херст",
+    "style": "Постмодернизм",
+    "image": "images/the_holy_trinity.jpg"
+  },
+  {
+    "name": "Буги-вуги на Бродвее",
+    "author": "Пит Мондриан",
+    "style": "Де стил / неопластицизм",
+    "image": "images/boogy.jpg"
+  },
+  {
+    "name": "Автопортрет и портрет Петра Кончаловского",
+    "author": "Илья Машков",
+    "style": "Авангард / Бубновый валет",
+    "image": "images/avtoportret.jpg"
+  },
+  {
+    "name": "Мэрилин Монро",
+    "author": "Энди Уорхол",
+    "style": "Поп-арт",
+    "image": "images/monro.jpg"
+  },
+  {
+    "name": "Дома в Эстаке",
+    "author": "Жорж Брак",
+    "style": "Кубизм",
+    "image": "images/houses.jpg"
+  },
+  {
+    "name": "Женщина в шляпе",
+    "author": "Анри Матисс",
+    "style": "Фовизм",
+    "image": "images/woman.jpg"
+  },
+  {
+    "name": "Динамизм собаки на поводке",
+    "author": "Джакомо Балла",
+    "style": "Футуризм",
+    "image": "images/dog.jpg"
+  },
+  {
+    "name": "Спортсмены",
+    "author": "Казимир Малевич",
+    "style": "Супрематизм",
+    "image": "images/sport.jpg"
+  },
+  {
+    "name": "Красные рыбки",
+    "author": "Анри Матисс",
+    "style": "Фовизм",
+    "image": "images/fish.jpg"
+  },
+  {
+    "name": "Портрет Жанны Эбютерн в большой шляпе",
+    "author": "Амедео Модильяни",
+    "style": "Парижская школа / экспрессионизм",
+    "image": "images/janna.jpg"
+  },
+  {
+    "name": "Энергия покоя",
+    "author": "Марина Абрамович и Улай",
+    "style": "Перфоманс",
+    "image": "images/energy.jpg"
+  },
+  {
+    "name": "Постоянство памяти",
+    "author": "Сальвадор Дали",
+    "style": "Сюрреализм",
+    "image": "images/memory.jpg"
+  },
+  {
+    "name": "Парфюм",
+    "author": "Альфонс Муха",
+    "style": "Ар-нуво",
+    "image": "images/parfum.jpg"
+  },
+  {
+    "name": "Кот",
+    "author": "Альберто Джакометти",
+    "style": "Информель / послевоенное европейское искусство",
+    "image": "images/cat.jpg"
+  },
+  {
+    "name": "Сын человеческий",
+    "author": "Рене Магритт",
+    "style": "Сюрреализм",
+    "image": "images/son.jpg"
+  },
+  {
+    "name": "В машине",
+    "author": "Рой Лихтенштейн",
+    "style": "Поп-арт",
+    "image": "images/car.jpg"
+  },
+  {
+    "name": "Мадонна",
+    "author": "Эдвард Мунк",
+    "style": "Экспрессионизм",
+    "image": "images/madonna.jpg"
+  },
+  {
+    "name": "Особняк Рябушинского",
+    "author": "",
+    "style": "Модерн",
+    "image": "images/modern.jpg"
+  },
+  {
+    "name": "Без названия",
+    "author": "Пабло Пикассо",
+    "style": "Сюрреализм",
+    "image": "images/noname_pablo.jpg"
+  },
+  {
+    "name": "Откуда мы пришли? Кто мы? Куда мы идем?",
+    "author": "Поль Гоген",
+    "style": "Постимпрессионизм",
+    "image": "images/who.jpg"
+  }
+]
