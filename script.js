@@ -8,7 +8,6 @@ async function loadArtworks() {
 
       const container = document.getElementById('cards');
 
-      // Проходим по каждому произведению искусства и создаем карточку
       artworks.forEach(artwork => {
           const card = document.createElement('article');
           card.className = 'card';
@@ -24,12 +23,10 @@ async function loadArtworks() {
               </div>
           `;
 
-          // Добавляем обработчик клика на карточку
           card.addEventListener('click', () => {
               const front = card.querySelector('.card-front');
               const back = card.querySelector('.card-back');
 
-              // Переключаем отображение front и back
               if (front.style.display === 'none') {
                   front.style.display = 'block';
                   back.style.display = 'none';
@@ -39,7 +36,6 @@ async function loadArtworks() {
               }
           });
 
-          // Добавляем карточку в контейнер
           container.appendChild(card);
       });
   } catch (error) {
@@ -47,5 +43,4 @@ async function loadArtworks() {
   }
 }
 
-// Вызываем функцию загрузки картин при загрузке страницы
 window.onload = loadArtworks;
