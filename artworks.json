@@ -207,6 +207,102 @@
     "name": "Арлекин и его подружка",
     "author": "Пабло Пикассо",
     "style": "Постимпрессионизм / ранний экспрессионизм",
-    "image": "images/arlekino.jpg"
+    "image": "images/arlekino.png"
+  },
+  {
+    "name": "Клятва Горациев",
+    "author": "Жак Луи Давид",
+    "style": "Классицизм",
+    "image": "images/klyatva.jpg"
+  },
+  {
+    "name": "Плот «Медузы»",
+    "author": "Теодор Жерико",
+    "style": "Романтизм",
+    "image": "images/meduza.jpg"
+  },
+  {
+    "name": "Убийца в переулке",
+    "author": "Эдвард Мунк",
+    "style": "Экспрессионизм / символизм",
+    "image": "images/killer.jpg"
+  },
+  {
+    "name": "Лето",
+    "author": "Альфонс Муха",
+    "style": "Ар-нуво",
+    "image": "images/summer.jpg"
+  },
+  {
+    "name": "Прибыл на каникулы",
+    "author": "Фёдор Решетников",
+    "style": "Социальный реализм",
+    "image": "images/holidays.jpg"
+  },
+  {
+    "name": "Без названия",
+    "author": "Пабло Пикассо",
+    "style": "Кубизм",
+    "image": "images/pablo_noname.jpg"
+  },
+  {
+    "name": "Композиция IV",
+    "author": "Василий Кандинский",
+    "style": "Абстрактный экспрессионизм",
+    "image": "images/composition.jpg"
+  },
+  {
+    "name": "А ты ревнуешь?",
+    "author": "Поль Гоген",
+    "style": "Клуазонизм",
+    "image": "images/jealousy.jpg"
+  },
+  {
+    "name": "Башня Татлина — Памятник III Интернационалу",
+    "author": "Владимир Татлин",
+    "style": "Конструктивизм",
+    "image": "images/tower.jpg"
+  },
+  {
+    "name": "Дворец Советов",
+    "author": "Борис Иофан, Владимир Щуко, Владимир Гельфрейх",
+    "style": "Сталинская архитектура",
+    "image": "images/stalin.jpg"
+  },
+  {
+    "name": "Юдифь и Олоферн",
+    "author": "Густав Климт",
+    "style": "Модерн",
+    "image": "images/udif.jpg"
+  },
+  {
+    "name": "Русская медсестра",
+    "author": "Диего Ривера",
+    "style": "Модерн",
+    "image": "images/nurse.jpg"
+  },
+  {
+    "name": "Созвездия",
+    "author": "Жоан Миро",
+    "style": "Абстракционизм",
+    "image": "images/constellations.jpg"
+  },
+  {
+    "name": "Влюблённые",
+    "author": "Рене Магритт",
+    "style": "Сюрреализм",
+    "image": "images/rene_lovers.jpg"
+  },
+  {
+    "name": "Этюд по портрету папы Иннокентия X работы Веласкеса",
+    "author": "Фрэнсис Бэкон",
+    "style": "Экспрессионизм",
+    "image": "images/papa.jpg"
+  },
+  {
+    "name": "Портер Жанны Эбютерн",
+    "author": "Амедео Модильяни",
+    "style": "Парижская школа / экспрессионизм",
+    "image": "images/janna1918.jpeg"
   }
 ]
